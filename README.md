@@ -9,4 +9,4 @@ The random selection process looks like this:
 
 I believe the result of the experiment was that there wasn't really any significant difference between making picks yourself and generating your bracket with random weighted selections. 
 
-I don't really watch basketball, so I've been doing my brackets this way every year since I took that class. I end up doing a few brackets every year, so Ifigured I could write this script to cut down on time. Should be reusable in the future, just need to change out the team names
+I don't really watch basketball, so I've been doing my brackets this way every year since I took that class. I end up doing a few brackets every year, so I figured I could write this script to cut down on time. Should be reusable in the future, just need to change out the team names
